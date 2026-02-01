@@ -4,21 +4,8 @@ This repository contains my **Java Object-Oriented Programming (OOP) practice pr
 
 It reflects my hands-on learning while improving my Java programming skills during my studies.
 
-## 📂 Project Structure
 
-src/
-├─ OOP3.java
-├─ OOP4.java
-├─ OOP5.java
-├─ OOP6.java
-├─ OOP7.java
-├─ OOP8.java
-├─ OOP9.java
-├─ OOPs.java
-└─ Students.java
-.gitignore
-
-## 💻 Topics Covered
+##  Topics Covered
 
 - Java classes and objects
 - Constructor
@@ -31,7 +18,7 @@ src/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
